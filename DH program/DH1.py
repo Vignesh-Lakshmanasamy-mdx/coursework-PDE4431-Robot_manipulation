@@ -1,3 +1,8 @@
+""" used Chatgpt to get the python file
+- only DH value and Joint angle Value is uploaded by me
+"""
+
+
 import numpy as np
 
 # Function to convert degrees to radians
